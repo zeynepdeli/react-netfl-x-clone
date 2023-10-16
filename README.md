@@ -1,12 +1,12 @@
 # Netflıx-Clone
 
-# Uygulama durumunu yönetmek ve verileri tutmak için Redux kullanıldı. Redux, merkezi bir veri deposu sağlayarak bileşenler arasında veri iletişimini kolaylaştırdı.
+- Uygulama durumunu yönetmek ve verileri tutmak için Redux kullanıldı. Redux, merkezi bir veri deposu sağlayarak bileşenler arasında veri iletişimini kolaylaştırdı.
 
-# Sayfa yönlendirmelerini ve gezinmeyi sağlamak için React Router Dom kullanıldı. Bu, kullanıcıların farklı sayfalar arasında geçiş yapabilmesini sağladı.
-# Kullanıcı arayüzünü oluşturmak için Bootstrap kullanıldı. Bootstrap'in hazır bileşenleri ve stil yapısı, hızlı ve şık bir tasarım oluşturmama yardımcı oldu.
-# Görsel kaydırma öğelerini uygulamaya entegre etmek için React Splide kullanıldı. Bu, kullanıcılara filmleri veya içerikleri göz atmaları için interaktif bir deneyim sağladı.
-# Redux'un state yönetimini kolaylaştırmak için reducer'lar kullanıldı. Bu sayede farklı veri bölümleri için ayrı reducer'lar oluşturuldu ve karmaşıklık azaltıldı.
-# Verileri çekmek için Axios kullandım çünkü Axios, HTTP isteklerini kolayca yapmamı sağladı ve TMDB'nin API'si ile iletişim kurmamı sağladı. 
+- Sayfa yönlendirmelerini ve gezinmeyi sağlamak için React Router Dom kullanıldı. Bu, kullanıcıların farklı sayfalar arasında geçiş yapabilmesini sağladı.
+- Kullanıcı arayüzünü oluşturmak için Bootstrap kullanıldı. Bootstrap'in hazır bileşenleri ve stil yapısı, hızlı ve şık bir tasarım oluşturmama yardımcı oldu.
+- Görsel kaydırma öğelerini uygulamaya entegre etmek için React Splide kullanıldı. Bu, kullanıcılara filmleri veya içerikleri göz atmaları için interaktif bir deneyim sağladı.
+- Redux'un state yönetimini kolaylaştırmak için reducer'lar kullanıldı. Bu sayede farklı veri bölümleri için ayrı reducer'lar oluşturuldu ve karmaşıklık azaltıldı.
+- Verileri çekmek için Axios kullandım çünkü Axios, HTTP isteklerini kolayca yapmamı sağladı ve TMDB'nin API'si ile iletişim kurmamı sağladı. 
 
 # Önizleme
 

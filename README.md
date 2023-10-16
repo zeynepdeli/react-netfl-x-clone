@@ -1,4 +1,4 @@
-
+# Netflıx-Clone
 
 - Uygulama durumunu yönetmek ve verileri tutmak için Redux kullanıldı. Redux, merkezi bir veri deposu sağlayarak bileşenler arasında veri iletişimini kolaylaştırdı.
 
